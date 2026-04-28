@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs e temp
+*.log
+.cache/
+.tmp/
+
+# Build / dependencies (não usado, mas precaução)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Servidores locais (Python, etc.)
+__pycache__/
+*.pyc
